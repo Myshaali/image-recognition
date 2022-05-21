@@ -1,0 +1,14 @@
+body
+{
+    background-color: lightslategray;
+    text-align: center;
+    color: lightgreen;
+}
+#camera
+{
+    border: 10px;
+    border-color: black;
+}
+#result_of_objects, #result_of_accuracy{
+    color: yellow;
+}
